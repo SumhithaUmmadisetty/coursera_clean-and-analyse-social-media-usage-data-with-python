@@ -1,4 +1,4 @@
-Process Overview (task-by-task guide provided)
+# Process Overview (task-by-task guide provided)
 In this project, I aimed to simulate and analyze social media data to gain insights into user engagement across various categories. The process involved several key steps, each contributing to the overall goal of understanding data patterns and trends.
 
 1. **Importing Libraries:** I started by importing essential Python libraries such as `pandas`, `numpy`, `matplotlib.pyplot`, `seaborn`, and `random`. These libraries provided the tools necessary for data manipulation, visualization, and statistical analysis.
@@ -34,8 +34,8 @@ To showcase the project in my portfolio, I included the following artifacts:
 
 1. **Graphs and Statistics:**
    ![Histogram of Likes]([path/to/histogram.png](https://github.com/SumhithaUmmadisetty/coursera_clean-and-analyse-social-media-usage-data-with-python/blob/main/Screenshot%202024-07-06%20102939.png)
-   ![Boxplot of Likes by Category](https://github.com/SumhithaUmmadisetty/coursera_clean-and-analyse-social-media-usage-data-with-python/blob/main/Screenshot%202024-07-06%20102951.png)
-   ![Category-wise Average Likes]([path/to/average_likes.png](https://github.com/SumhithaUmmadisetty/coursera_clean-and-analyse-social-media-usage-data-with-python/blob/main/Screenshot%202024-07-06%20103114.png)
+   ![Boxplot of Likes by Category]([Screenshot 2024-07-06 102951.png](https://github.com/SumhithaUmmadisetty/coursera_clean-and-analyse-social-media-usage-data-with-python/blob/main/Screenshot%202024-07-06%20102951.png))
+   ![Category-wise Average Likes]([Screenshot 2024-07-06 103114.png](https://github.com/SumhithaUmmadisetty/coursera_clean-and-analyse-social-media-usage-data-with-python/blob/main/Screenshot%202024-07-06%20103114.png))
 
 2. **Improvements/Changes:**
    - Use real data for more accurate analysis.
