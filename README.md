@@ -33,9 +33,9 @@ While the project provided valuable insights, there are several improvements and
 To showcase the project in my portfolio, I included the following artifacts:
 
 1. **Graphs and Statistics:**
-   ![Histogram of Likes]([path/to/histogram.png](https://github.com/SumhithaUmmadisetty/coursera_clean-and-analyse-social-media-usage-data-with-python/blob/main/Screenshot%202024-07-06%20102939.png)
-   ![Boxplot of Likes by Category]([Screenshot 2024-07-06 102951.png](https://github.com/SumhithaUmmadisetty/coursera_clean-and-analyse-social-media-usage-data-with-python/blob/main/Screenshot%202024-07-06%20102951.png))
-   ![Category-wise Average Likes]([Screenshot 2024-07-06 103114.png](https://github.com/SumhithaUmmadisetty/coursera_clean-and-analyse-social-media-usage-data-with-python/blob/main/Screenshot%202024-07-06%20103114.png))
+   - [Histogram of Likes](https://github.com/SumhithaUmmadisetty/coursera_clean-and-analyse-social-media-usage-data-with-python/blob/main/Screenshot%202024-07-06%20102939.png)
+   - [Boxplot of Likes by Category](https://github.com/SumhithaUmmadisetty/coursera_clean-and-analyse-social-media-usage-data-with-python/blob/main/Screenshot%202024-07-06%20102951.png)
+   - [Category-wise Average Likes](https://github.com/SumhithaUmmadisetty/coursera_clean-and-analyse-social-media-usage-data-with-python/blob/main/Screenshot%202024-07-06%20103114.png)
 
 2. **Improvements/Changes:**
    - Use real data for more accurate analysis.
