@@ -1,4 +1,4 @@
-# Process Overview (task-by-task guide provided)
+# Process Overview [(task-by-task guide provided)](https://github.com/SumhithaUmmadisetty/coursera_clean-and-analyse-social-media-usage-data-with-python/blob/main/1_project%20guide.pdf) 
 In this project, I aimed to simulate and analyze social media data to gain insights into user engagement across various categories. The process involved several key steps, each contributing to the overall goal of understanding data patterns and trends.
 
 1. **Importing Libraries:** I started by importing essential Python libraries such as `pandas`, `numpy`, `matplotlib.pyplot`, `seaborn`, and `random`. These libraries provided the tools necessary for data manipulation, visualization, and statistical analysis.
